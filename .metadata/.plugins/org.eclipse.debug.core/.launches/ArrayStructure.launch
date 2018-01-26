@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/TTLecture1/src/com/zohar/cohen/array/structure/ArrayStructure.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.zohar.cohen.array.structure.ArrayStructure"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TTLecture1"/>
+</launchConfiguration>
